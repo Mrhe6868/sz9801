@@ -5,8 +5,8 @@ public class Hello {
         System.out.println("hello");
         System.out.println("hello");
         System.out.println("hello");
-        System.out.println("hello");
-        System.out.println("hello");
+        System.out.println("helloÁúèºÓéÀÖ");
+        System.out.println("helÁÄÌìÁËlo");
         System.out.println("hello");
     }
 }
